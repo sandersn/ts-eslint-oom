@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "strict": true,
+    "target": "esnext",
+    "noEmit": true,
+    "module": "esnext",
+    "moduleResolution": "nodenext",
+    "allowSyntheticDefaultImports": true
+  },
+  "files": [ "index.js" ]
+}

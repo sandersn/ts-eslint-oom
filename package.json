@@ -1,0 +1,24 @@
+{
+  "name": "ts-eslint-oom",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nathan Shively-Sanders",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "@typescript-eslint/utils": "^5.52.0",
+    "eslint": "^8.34.0"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.21.0",
+    "@types/node": "^18.13.0",
+    "typescript": "^4.9.5"
+  }
+}
